@@ -1,0 +1,6 @@
+OpenAI response for Prompt: Cloud Computing using artificial intelligence 
+ *************************
+
+
+
+Cloud computing using artificial intelligence (AI) refers to the use of cloud computing technology to enable AI applications and services. AI applications and services can be deployed in the cloud, allowing for the sharing of computing resources among multiple users. AI applications in the cloud can be used to automate processes, improve customer experience, and gain insights from data. Cloud computing can also help reduce costs and enable faster development and deployment of AI applications. Examples of cloud-based AI applications include machine learning, natural language processing, image recognition, and robotics.
