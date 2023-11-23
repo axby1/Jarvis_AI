@@ -15,7 +15,7 @@ import glob
 import time
 import win32com.client
 
-apikey="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"
+apikey="paste your api key"
 
 
 speaker=win32com.client.Dispatch("SAPI.SpVoice")
